@@ -102,6 +102,6 @@ Les fonds recueillies permettront d'augmenter la qualité des vidéos qui accomp
 Vous pouvez m'envoyer un mail à kayveendegila@gmail.com
 
 ## 3 Livres pratiques pour Apprendre la Data Science avec Python
-Python for Data Analysis:https://wesmckinney.com/book/
-Python Data Science Handbook:https:https://jakevdp.github.io/PythonDataScienceHandbook/
-Pandas Cookbook:https://github.com/PacktPublishing/Pandas-Cookbook?tab=readme-ov-file
+* Python for Data Analysis:https://wesmckinney.com/book/
+* Python Data Science Handbook:https:https://jakevdp.github.io/PythonDataScienceHandbook/
+* Pandas Cookbook:https://github.com/PacktPublishing/Pandas-Cookbook?tab=readme-ov-file
