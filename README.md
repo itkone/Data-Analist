@@ -105,7 +105,7 @@ Vous pouvez m'envoyer un mail à kayveendegila@gmail.com
 * Python for Data Analysis:https://wesmckinney.com/book/
 * Python Data Science Handbook:https:https://jakevdp.github.io/PythonDataScienceHandbook/
 * Pandas Cookbook:https://github.com/PacktPublishing/Pandas-Cookbook?tab=readme-ov-file
-	### Liens GitHub:
-		* Python for Data Analysis:https://github.com/wesm/pydata-book
-  		* Python Data Science Handbook:https://github.com/jakevdp/PythonDataScienceHandbook
-  		* Pandas Cookbook:https://github.com/PacktPublishing/Pandas-Cookbook?tab=readme-ov-file
+### Liens GitHub:
+  * Python for Data Analysis:https://github.com/wesm/pydata-book
+  * Python Data Science Handbook:https://github.com/jakevdp/PythonDataScienceHandbook
+  * Pandas Cookbook:https://github.com/PacktPublishing/Pandas-Cookbook?tab=readme-ov-file
